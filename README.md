@@ -6,5 +6,6 @@ Get started quickly using [Overleaf](https://www.overleaf.com/latex/templates/so
 
 ### Preview
 
-![Sharath_Resume_page-0001](https://github.com/Sharath1036/resume/assets/83855796/645697fb-8b4c-4fc9-ba77-0cd5b4340444)
-![Sharath_Resume_page-0002](https://github.com/Sharath1036/resume/assets/83855796/ff00053c-b2c2-4e0c-98c7-f8bc3cae0a14)
+![Sharath_Resume_page-0001](https://github.com/Sharath1036/resume/assets/83855796/72a5cd7e-7876-48b1-9fdb-bcc50e0bd1c0)
+![Sharath_Resume_page-0002](https://github.com/Sharath1036/resume/assets/83855796/73c5f974-920a-464b-9519-aa4912d2c3b0)
+
