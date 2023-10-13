@@ -2,7 +2,7 @@ A one-column resume for software developers. It uses the base latex templates an
 
 ### Quick start
 
-Get started quickly using [Overleaf](https://www.overleaf.com/latex/templates/software-engineer-resume/gqxmqsvsbdjf) template.
+Get started quickly using [Overleaf](https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz) template.
 
 ### Preview
 
